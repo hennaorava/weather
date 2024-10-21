@@ -1,6 +1,6 @@
 const url = 'https://api.openweathermap.org/data/2.5/weather?'
 const icon_url = 'http://openweathermap.org/img/wn/'
-const api_key = 'f27ce579ea7b1fd8bbe810f75fa4b914'
+const api_key = '' // Poistettu API-avain
 
 const temp_span = document.querySelector('#temp')
 const speed_span = document.querySelector('#speed')
